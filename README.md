@@ -1,4 +1,4 @@
-# 🚀 Note-Taking App with React & TypeScript
+🚀 Note-Taking App with React & TypeScript
 
 # 🛠️ Tech Stack:
 React with TypeScript for type-safe development
